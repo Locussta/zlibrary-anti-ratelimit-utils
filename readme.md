@@ -3,9 +3,9 @@ ZLibrary / 2Library Anti Ratelimit
 
 This project is a tool that completely obliterates [ZLibrary / 2Library](https://z-lib.org/)'s ratelimit.
 
-If you've tried to download books from the associated website, you might see quite an annoying message regarding the fact that you can only download 5 or 10 books freely from the website depending per day.
+If you've tried to download books from the associated website, you might see quite an annoying message regarding the fact that you can only download 5 or 10 books freely from the website per day.
 
-Moreover, you get 4 high speed download urls to download from which also happens to completely remove the 1 MBPS limit ZLibrary puts in their website.
+Using this algorithm, that issue is no more and moreover, you get 4 high speed download urls to download from which also happens to completely remove the 1 MBPS limit ZLibrary puts in their website.
 
 **Use case**
 
